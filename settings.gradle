@@ -1,0 +1,3 @@
+include ':Calcilibrary'
+include ':app'
+rootProject.name = "Calcilibrary"
